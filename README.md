@@ -1,2 +1,2 @@
-# formacao-design-patterns
+# Formação Design Patterns
 Exercises from design patterns course
